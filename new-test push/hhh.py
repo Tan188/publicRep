@@ -1,1 +1,1 @@
-print("hahahhaha")
+print("hahahhaha 新的")
